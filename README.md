@@ -11,5 +11,5 @@ This API is created as a final project for .NET at UnitBV, 2023-2024.
 
 ## Contributors
 
- - onisimm (Roman Onisim, 10LF323)
- -   (Sîrboiu Filip, 10LF323)
+ - @onisimm (Roman Onisim, 10LF323)
+ - @FilipS14 (Sîrboiu Filip, 10LF323)
